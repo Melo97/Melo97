@@ -7,8 +7,8 @@ Data Science is my passion, and here is where I want to share with you all my pr
 ##
 <div style="display: flex; flex-direction: row;">
   <a href="https://github.com/Melo97">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Melo97&show_icons=true&theme=transparent&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melo97&layout=compact&langs_count=10&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Melo97&show_icons=true&theme=transparent&rank_icon=github" style="max-width: 42%;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melo97&layout=compact&langs_count=10&theme=transparent" style="max-width: 50%;"/>
 </div>
     
 <div style="display: inline_block"><br>
