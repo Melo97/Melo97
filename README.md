@@ -32,3 +32,4 @@ Data Science is my passion, and here is where I want to share with you all my pr
 </div>
   
   ##
+![snake gif](https://github.com/Melo97/Melo97/blob/output/github-contribution-grid-snake.svg)
