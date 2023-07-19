@@ -30,6 +30,3 @@ Data Science is my passion, and here is where I want to share with you all my pr
   <a href = "mailto:daniel.iglesiascm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   
 </div>
-  
-  ##
-![snake gif](https://github.com/Melo97/Melo97/blob/output/github-contribution-grid-snake.svg)
