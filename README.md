@@ -8,7 +8,7 @@ Data Science is my passion, and here is where I want to share with you all my pr
 <div style="display: flex; flex-direction: row; justify-content: center;">
   <a href="https://github.com/Melo97">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Melo97&show_icons=true&theme=transparent&rank_icon=github"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melo97&layout=compact&langs_count=10&theme=transparent"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melo97&layout=compact&langs_count=10&theme=transparent&card_width=150"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -30,3 +30,11 @@ Data Science is my passion, and here is where I want to share with you all my pr
   <a href = "mailto:daniel.iglesiascm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   
 </div>
+
+
+#### Portfolio & Projects
+
+
+<a href="https://melo97.github.io/Daniel-Iglesias_Portifolio/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Melo97&repo=Daniel-Iglesias_Portifolio&theme=buefy" />
+</a>
