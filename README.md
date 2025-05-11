@@ -38,5 +38,10 @@ Data Science is my passion, and here is where I want to share with you all my pr
 - Click on the card below to see my projects! This is a minimalistic portfolio. Hope you like it!
 
 <a href="https://melo97.github.io/Daniel-Iglesias_Portifolio/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Melo97&repo=Daniel-Iglesias_Portifolio&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Melo97&repo=Daniel-Iglesias_Portifolio&theme=buefy" alt="Portfolio Ciencia de Dados"/>
 </a>
+
+<a href="https://melo97.github.io/Portfolio-Engenharia-Dados/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Melo97&repo=Portfolio-Engenharia-Dados&theme=buefy" alt="Portfolio Engenharia de Dados"/>
+</a>
+
